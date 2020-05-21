@@ -1,0 +1,9 @@
+[build]
+  command = "yarn bundle"
+  functions = "functions"
+
+[[redirects]]
+  from = "/.netlify/functions/graphql"
+  to = "/graphql"
+  status = 200
+  force = true

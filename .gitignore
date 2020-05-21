@@ -1,0 +1,6 @@
+node_modules
+
+.cache
+/functions/bundle
+
+/src/resources/service-account.json
